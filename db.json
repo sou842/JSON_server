@@ -1,73 +1,106 @@
 {
-    "users": [
+"user" : {
+    "menshoes":[
         {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
+            "id": 1,
+            "name":"adidas Originals Racer TR21",
+            "img":"https://i.ebayimg.com/thumbs/images/g/LhgAAOSw5XRj9m~o/s-l300.webp",
+            "size": 8,
+            "color": "white"
+        },
+        {
+            "id": 2,
+            "name": "adidas Originals Swift Run 22",
+            "img": "https://i.ebayimg.com/thumbs/images/g/6dAAAOSwnfVj96y-/s-l300.webp",
+            "size": 9,
+            "color": "black"
+        },
+        {
+            "id": 3,
+            "name": "adidas Originals Adilette Clogs",
+            "img": "https://i.ebayimg.com/thumbs/images/g/FyMAAOSwxOxj96y~/s-l300.webp",
+            "size": 8,
+            "color": "black"
+        },{
+            "id": 4,
+            "name": "Nike Air Jordan 1 Mid Ice Blue",
+            "img": "https://i.ebayimg.com/thumbs/images/g/BboAAOSw5qxjTiTp/s-l300.webp",
+            "size": 9,
+            "color": "blue"
+        },{
+            "id": 5,
+            "name": "adidas Originals Grand Court",
+            "img": "https://i.ebayimg.com/thumbs/images/g/J38AAOSwtitj9UbE/s-l300.webp",
+            "size": 7,
+            "color": "black"
+        },{
+            "id": 6,
+            "name": "Puma 37806601 Mens Softride",
+            "img": "https://i.ebayimg.com/thumbs/images/g/8qgAAOSwfWpjvGZo/s-l300.webp",
+            "size": 8,
+            "color": "red"
+        },{
+            "id": 7,
+            "name": "adidas Ultraboost 22 Shoes",
+            "img": "https://i.ebayimg.com/thumbs/images/g/nxsAAOSwueBj96zB/s-l300.webp",
+            "size": 7,
+            "color": "black"
+        },{
+            "id": 8,
+            "name": "Nike Air Max 90 Shoes Blue Chill",
+            "img": "https://i.ebayimg.com/thumbs/images/g/a00AAOSwBrtj3UNs/s-l300.webp",
+            "size": 8,
+            "color": "blue"
+        },{
+            "id": 9,
+            "name": "adidas Originals Swift Run 22",
+            "img": "https://i.ebayimg.com/thumbs/images/g/QboAAOSwnX5j9SLs/s-l300.webp",
+            "size": 9,
+            "color": "blue"
+        },{
+            "id": 10,
+            "name": "adidas Originals NMD_R1 V2",
+            "img": "https://i.ebayimg.com/thumbs/images/g/siQAAOSwPFVj9m~n/s-l300.webp",
+            "size": 8,
+            "color": "white"
+        },{
+            "id": 11,
+            "name": "adidas Daily 3.0 Shoes",
+            "img": "https://i.ebayimg.com/thumbs/images/g/04AAAOSwuApj96zE/s-l300.webp",
+            "size": 9,
+            "color": "white"
+        },{
+            "id": 12,
+            "name": "Puma 192979-03 Mens",
+            "img": "https://i.ebayimg.com/thumbs/images/g/5cgAAOSwiVRhW0Tf/s-l300.webp",
+            "size": 9,
+            "color": "yellow"
+        },{
+            "id": 13,
+            "name": "",
+            "img": "https://i.ebayimg.com/thumbs/images/g/t~AAAOSwzG5j9m~p/s-l300.webp",
+            "size": 7,
+            "color": "yellow"
+        },{
+            "id": 14,
+            "name": "Nike COURT VISION",
+            "img": "https://i.ebayimg.com/thumbs/images/g/bswAAOSwIVhjtx0j/s-l300.webp",
+            "size": 9,
+            "color": "black"
+        },{
+            "id": 15,
+            "name": "NikeCraft General",
+            "img": "https://i.ebayimg.com/thumbs/images/g/A5gAAOSwL-1jG7ve/s-l300.webp",
+            "size": 9,
+            "color": "yellow"
+        },
+        {
+            "id": 16,
+            "name": "Keen 1017785K Mens",
+            "img": "https://i.ebayimg.com/thumbs/images/g/uIcAAOSwODNjrhuU/s-l300.webp",
+            "size": 8,
+            "color": "black"
         }
-    ],
-    "accounts": [
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            }
-    ],
-    "transactions": [
-
-    ],
-    "data":[
-        {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
-]
-    
-
+    ]
+}
 }
