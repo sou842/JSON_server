@@ -118,5 +118,12 @@
             "price": 140
         }
     ]
-}
+},
+"account":[
+    {
+        "email":"ss.gmail.com",
+        "password": "hello",
+        "name": "Sourav Samanta"
+    }
+]
 }
