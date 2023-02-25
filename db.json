@@ -1,5 +1,5 @@
 {
-"user" : {
+
     "menshoes":[
         {
             "id": 1,
@@ -267,8 +267,12 @@
             "price": 140,
             "catagory":"womenshoes"
         }
+    ],
+    "account":[
+        {
+            "name":"sourav",
+            "password":"120"
+        }
     ]
-},
-"account":[
-]
+    
 }
