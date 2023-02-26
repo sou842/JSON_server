@@ -268,6 +268,140 @@
             "catagory":"womenshoes"
         }
     ],
+    "kidshoes":[
+        {
+            "id": 1,
+            "name":"Crocs Kids' Baya Clogs",
+            "img":"https://i.ebayimg.com/thumbs/images/g/gYcAAOSw8LNjy88V/s-l300.webp",
+            "size": 8,
+            "color": "white",
+            "price": 100,
+            "catagory":"kidshoes"
+        },
+        {
+            "id": 2,
+            "name": "adidas Originals Swift",
+            "img": "https://i.ebayimg.com/thumbs/images/g/LbMAAOSwk-Rj-Pp~/s-l300.webp",
+            "size": 9,
+            "color": "black",
+            "price": 150,
+            "catagory":"kidshoes"
+        },
+        {
+            "id": 3,
+            "name": "adidas Originals Racer",
+            "img": "https://i.ebayimg.com/thumbs/images/g/hz4AAOSwGCFj-keo/s-l300.webp",
+            "size": 8,
+            "color": "black",
+            "price": 120,
+            "catagory":"kidshoes"
+        },{
+            "id": 4,
+            "name": "adidas Originals Racer",
+            "img": "https://i.ebayimg.com/thumbs/images/g/ewgAAOSwUYZj-Ppy/s-l300.webp",
+            "size": 9,
+            "color": "blue",
+            "price": 200,
+            "catagory":"kidshoes"
+        },{
+            "id": 5,
+            "name": "adidas Originals OZELIA",
+            "img": "https://i.ebayimg.com/thumbs/images/g/gnMAAOSwP3NjriPd/s-l300.webp",
+            "size": 7,
+            "color": "black",
+            "price": 180,
+            "catagory":"kidshoes"
+        },{
+            "id": 6,
+            "name": "adidas Originals x LEGO",
+            "img": "https://i.ebayimg.com/thumbs/images/g/wd0AAOSw-9xj-Pp9/s-l300.webp",
+            "size": 8,
+            "color": "red",
+            "price": 150,
+            "catagory":"kidshoes"
+        },{
+            "id": 7,
+            "name": "PUMA Little Kids R78 Shoes",
+            "img": "https://i.ebayimg.com/thumbs/images/g/iSIAAOSwqohiHk6L/s-l300.webp",
+            "size": 7,
+            "color": "black",
+            "price": 140,
+            "catagory":"kidshoes"
+        },{
+            "id": 8,
+            "name": "Crocs Kids' Electro Clogs ",
+            "img": "https://i.ebayimg.com/thumbs/images/g/BzsAAOSw46Vjy8qV/s-l300.webp",
+            "size": 8,
+            "color": "blue",
+            "price": 110,
+            "catagory":"kidshoes"
+        },{
+            "id": 9,
+            "name": "Crocs Kids' Bayaband Sandals",
+            "img": "https://i.ebayimg.com/thumbs/images/g/OhEAAOSwxtdjy818/s-l300.webp",
+            "size": 9,
+            "color": "blue",
+            "price": 150,
+            "catagory":"kidshoes"
+        },{
+            "id": 10,
+            "name": "PUMA Little Kids Rebound",
+            "img": "https://i.ebayimg.com/thumbs/images/g/UK8AAOSwvO1jGTvV/s-l300.webp",
+            "size": 8,
+            "color": "white",
+            "price": 130,
+            "catagory":"kidshoes"
+        },{
+            "id": 11,
+            "name": "adidas Originals Advantage",
+            "img": "https://i.ebayimg.com/thumbs/images/g/11oAAOSw3S1j-kep/s-l300.webp",
+            "size": 9,
+            "color": "white",
+            "price": 100,
+            "catagory":"kidshoes"
+        },{
+            "id": 12,
+            "name": "Crocs Kids' Classic Clogs",
+            "img": "https://i.ebayimg.com/thumbs/images/g/OZQAAOSwSbBj2tDu/s-l300.webp",
+            "size": 9,
+            "color": "yellow",
+            "price": 120,
+            "catagory":"kidshoes"
+        },{
+            "id": 13,
+            "name": "Crocs Kids' Classic Glitter",
+            "img": "https://i.ebayimg.com/thumbs/images/g/8ekAAOSwimJjy82C/s-l300.webp",
+            "size": 7,
+            "color": "yellow",
+            "price": 150,
+            "catagory":"kidshoes"
+        },{
+            "id": 14,
+            "name": "Nike Kids/Toddler Black",
+            "img": "https://i.ebayimg.com/thumbs/images/g/3QUAAOSwY29j1ADQ/s-l300.webp",
+            "size": 9,
+            "color": "black",
+            "price": 170,
+            "catagory":"kidshoes"
+        },{
+            "id": 15,
+            "name": "Kids Casual Shoes Sports",
+            "img": "https://i.ebayimg.com/thumbs/images/g/ANkAAOSwr9ZjI-3r/s-l300.webp",
+            "size": 9,
+            "color": "yellow",
+            "price": 130,
+            "catagory":"kidshoes"
+        },
+        {
+            "id": 16,
+            "name": "Soccer Shoes Youth Kids",
+            "img": "https://i.ebayimg.com/thumbs/images/g/pkIAAOSwTDhiQTMb/s-l300.webp",
+            "size": 8,
+            "color": "black",
+            "price": 140,
+            "catagory":"kidshoes"
+        }
+    ],
     "account":[
         {
             "name":"sourav",
